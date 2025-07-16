@@ -22,13 +22,13 @@ header {
     
     }
 
-    .nav-item a {
+    .nav_item a {
         text-decoration: none;
         color: #1d1d1d;
         font-weight: 600;
 }
 
-.nav-item.active a {
-    color:#1d1d1d;
+.nav_item.active a {
+    color:#ec9d52;
     border-bottom: 3px solid #ffe100;
 }
